@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1718734839
+    locked: 0
+  - name: Bullet
+    uniqueID: 2101304275
+    locked: 0
+  - name: Player
+    uniqueID: 1234214451
+    locked: 0
